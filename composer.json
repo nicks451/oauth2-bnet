@@ -1,5 +1,5 @@
 {
-    "name": "depotwarehouse/oauth2-bnet",
+    "name": "nicks451/oauth2-bnet",
     "description": "A Battle.net provider for league/oauth2-client",
     "license": "MIT",
     "authors": [
